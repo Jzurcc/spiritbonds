@@ -1,0 +1,5 @@
+C:\Users\John Reniel\Documents\Spirit Bonds\bin\Release\net8.0\publish\Spirit Bonds.exe
+C:\Users\John Reniel\Documents\Spirit Bonds\bin\Release\net8.0\publish\Spirit Bonds.dll
+C:\Users\John Reniel\Documents\Spirit Bonds\bin\Release\net8.0\publish\Spirit Bonds.deps.json
+C:\Users\John Reniel\Documents\Spirit Bonds\bin\Release\net8.0\publish\Spirit Bonds.runtimeconfig.json
+C:\Users\John Reniel\Documents\Spirit Bonds\bin\Release\net8.0\publish\Spirit Bonds.pdb
